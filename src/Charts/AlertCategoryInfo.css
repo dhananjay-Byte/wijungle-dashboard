@@ -1,0 +1,13 @@
+.alert-category-container {
+    padding: 20px;
+    background-color: #040D12;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-top: 20px;
+}
+
+.alert-category-card {
+    background-color: #183D3D;
+    color: white;
+}
